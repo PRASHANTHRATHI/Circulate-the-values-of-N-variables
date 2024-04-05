@@ -21,7 +21,7 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-    ```
+```
 
 ## Output:
 ![Screenshot 2024-04-05 193815](https://github.com/PRASHANTHRATHI/Circulate-the-values-of-N-variables/assets/145743120/40acbd8c-0919-419b-80ef-01d192f2fd59)
