@@ -24,5 +24,12 @@ def circulate():
     ```
 
 ## Output:
+![Screenshot 2024-04-05 193815](https://github.com/PRASHANTHRATHI/Circulate-the-values-of-N-variables/assets/145743120/40acbd8c-0919-419b-80ef-01d192f2fd59)
+![Screenshot 2024-04-05 193937](https://github.com/PRASHANTHRATHI/Circulate-the-values-of-N-variables/assets/145743120/7a50e52c-5750-4f9e-8503-dd40cb94b005)
+![Screenshot 2024-04-05 193937](https://github.com/PRASHANTHRATHI/Circulate-the-values-of-N-variables/assets/145743120/7f1f5bdb-e1b5-4600-9eb9-e00df433994b)
+
+
+
 
 ## Result:
+The output for circulate the values of n variables is successfull.
