@@ -15,7 +15,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-'''
+```
 def circulate():
     l=eval(input())
     n=int(input())
